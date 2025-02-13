@@ -38,5 +38,5 @@ I love building innovative projects and solving real-world problems using techno
 ## 📫 Connect with Me  
 
 - **LinkedIn:** [Your Profile](www.linkedin.com/in/kaustubh-sen-091380328)  
-- **GitHub:** [github.com/Kaustubh-Sen]([#](https://github.com/Kaustubh207))  
+- **GitHub:** [github.com/Kaustubh-Sen](https://github.com/Kaustubh207) 
 - **Email:** [Your Email](Kaustubhsen2707@gmail.com)  
