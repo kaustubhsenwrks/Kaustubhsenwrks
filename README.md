@@ -2,7 +2,7 @@
 
 ## BTech AI & ML | Developer | Tech Enthusiast  
 
-Hi there! I'm **Kaustubh Sen**, a passionate **AI & ML student** exploring the world of **coding, hacking, and software development**.  
+Hi there! I'm **Kaustubh Sen**, a passionate **AI & ML student** exploring the world of **coding, hacking, and software development**. 
 I love building innovative projects and solving real-world problems using technology.  
 
 ---
