@@ -49,7 +49,8 @@ I love building innovative projects and solving real-world problems using techno
 
 ### 📊 GitHub Stats
 
-![Kaustubh Sen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaustubh207&show_icons=true&theme=radical)
+[![Kaustubh Sen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaustubh207&show_icons=true&theme=radical)](https://github.com/Kaustubh207)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh207&layout=compact&theme=radical)
 
