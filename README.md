@@ -21,8 +21,8 @@ I love building innovative projects and solving real-world problems using techno
 
 ---
 
-### 🏆 Leadership 
-👑 *Leader of Team Vasiliades* — 1st Runner up at *Genethon 2024*.   
+### 🏆Hackathon 
+👑 *Database Administrator of Team Vasiliades* — 1st Runner up at *Genethon 2024*.   
 
 ---
 
