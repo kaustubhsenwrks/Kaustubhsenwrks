@@ -10,26 +10,12 @@ I love building innovative projects and solving real-world problems using techno
  
 🔹 *[AlgoVisualizer](https://github.com/team-vasiliades/algovisualizer)* — Making algorithms come to life through visualization. 
     🏆 *2nd place in a national-level hackathon!*  
-    
- ## Upcoming:
- 
-🔹 **Resume Analyzer** – A smart tool to generate and evaluate resumes for job roles.  
-
-🔹 **Innovative OS (Team Vasiliades)** – Building a futuristic OS with **hand gesture controls, 3D UI, and voice integration**.  
-
-🔹 **Art Showcase & Marketplace** – A social e-commerce platform for artists to sell their work.  
 
 ---
 
 ### 🏆Hackathon 
 👑 *Database Administrator of Team Vasiliades* — 1st Runner up at *Genethon 2024*.   
 
----
-
-## 📜 Certifications  
-
-- ✅ **ChatGPT Prompt Engineering for Developers** – DeepLearning.AI & OpenAI  
-- ✅ **SQL (Basics to Advanced)** – HackerRank
 ---
 
 ### 🔥 Tech Stack & Skills
@@ -45,6 +31,11 @@ I love building innovative projects and solving real-world problems using techno
 🛠 **Frameworks & Tools:** Django, MySQL, Git, OpenAI APIs  
 🛠 *Other Tools:* Git, VS Code, Figma, Canva, Firebase, Node.js  
 
+---
+## 📜 Certifications  
+
+- ✅ **ChatGPT Prompt Engineering for Developers** – DeepLearning.AI & OpenAI  
+- ✅ **SQL (Basics to Advanced)** – HackerRank
 ---
 
 ### 📊 GitHub Stats
