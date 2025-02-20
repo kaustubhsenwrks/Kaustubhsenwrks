@@ -8,7 +8,9 @@ I love building innovative projects and solving real-world problems using techno
 ---
 ### 🚀 Projects
  
-🔹 *[AlgoVisualizer](https://github.com/team-vasiliades/algovisualizer)* — Making algorithms come to life through visualization.  
+🔹 *[AlgoVisualizer](https://github.com/team-vasiliades/algovisualizer)* — Making algorithms come to life through visualization. 
+🔹 **Smart Calculator** — A Smart Calculator with a user-friendly GUI, advanced mathematical functions, and voice command support.
+🔹 **Data Analysis Tool** — A Data Analysis Tool that allows users to manage, visualize, and data of CSV files, sorting, editing, and generating interactive charts with Matplotlib.
 
 ---
 
@@ -64,6 +66,6 @@ I love building innovative projects and solving real-world problems using techno
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kaustubh207)   
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/kaustubh207/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Kaustubh027)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://kaustubh-sen.vercel.app/)  
 
 🚀 Always open to collaboration and exciting ideas!
