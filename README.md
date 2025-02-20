@@ -8,8 +8,8 @@ I love building innovative projects and solving real-world problems using techno
 ---
 ### 🚀 Projects
  
-🔹 *[AlgoVisualizer](https://github.com/team-vasiliades/algovisualizer)* — Making algorithms come to life through visualization. 
-🔹 **Smart Calculator** — A Smart Calculator with a user-friendly GUI, advanced mathematical functions, and voice command support.
+🔹 *[AlgoVisualizer](https://github.com/team-vasiliades/algovisualizer)* — Making algorithms come to life through visualization.                                                                                   
+🔹 **Smart Calculator** — A Smart Calculator with a user-friendly GUI, advanced mathematical functions, and voice command support.                                                                                 
 🔹 **Data Analysis Tool** — A Data Analysis Tool that allows users to manage, visualize, and data of CSV files, sorting, editing, and generating interactive charts with Matplotlib.
 
 ---
