@@ -4,6 +4,7 @@
 
 Hi there! I'm **Kaustubh Sen**, a passionate **AI & ML student** exploring the world of **coding, hacking, and software development**. 
 I love building innovative projects and solving real-world problems using technology.
+🚀 Check out my portfolio: [https://kaustubh-sen.vercel.app/](https://kaustubh-sen.vercel.app/) 
 ---
 ### 🚀 Projects
  
@@ -68,3 +69,4 @@ I love building innovative projects and solving real-world problems using techno
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://kaustubh-sen.vercel.app/)  
 
 🚀 Always open to collaboration and exciting ideas!
+# kaustubh sen 
