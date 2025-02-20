@@ -1,9 +1,10 @@
 # 🚀 Kaustubh Sen  
-
+#kaustubh sen
 ## BTech AI & ML | Developer | Tech Enthusiast  
 
 Hi there! I'm **Kaustubh Sen**, a passionate **AI & ML student** exploring the world of **coding, hacking, and software development**. 
-I love building innovative projects and solving real-world problems using technology.  
+I love building innovative projects and solving real-world problems using technology.
+🚀 Check out my portfolio: [https://kaustubh-sen.vercel.app/](https://kaustubh-sen.vercel.app/) 
 
 ---
 ### 🚀 Projects
