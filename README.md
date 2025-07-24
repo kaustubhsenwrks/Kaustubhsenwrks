@@ -16,7 +16,8 @@ Published Author Of the book **The Archive Of Unwritten Futures**.
 ---
 
 ### 🏆Hackathon 
-👑 *Database Administrator of Team Vasiliades* — 1st Runner up at *Genethon : A 24-hour National Level Hackathon 2024*.   
+👑  1st Runner up at *Genethon : A 24-hour National Level Hackathon 2024*.  
+👑  Selected under top 10 Teams in Brahmax 1.0 Hackathon 2025.
 
 ---
 
