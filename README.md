@@ -3,7 +3,8 @@
 ## BTech AI & ML | Developer | Tech Enthusiast  
 
 Hi there! I'm **Kaustubh Sen**, a passionate **AI & ML student** exploring the world of **coding, hacking, and software development**. 
-I love building innovative projects and solving real-world problems using technology.
+I love building innovative projects and solving real-world problems using technology, Also I'm a Chief Strategy Officer in **AIALCHEMIST** - An student led Organisation mainly focuses on AI & ML learnings,
+Published Author Of the book **The Archive Of Unwritten Futures**.
 🚀 Check out my portfolio: [https://kaustubh-sen.vercel.app/](https://kaustubh-sen.vercel.app/) 
 ---
 ### 🚀 Projects
