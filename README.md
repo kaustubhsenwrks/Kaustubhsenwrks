@@ -51,10 +51,10 @@ I love building innovative projects and solving real-world problems using techno
 
 ### 📊 GitHub Stats
 
-[![Kaustubh Sen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaustubh207&show_icons=true&theme=radical)](https://github.com/Kaustubh207)
+[![Kaustubh Sen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaustubh207&show_icons=true&theme=radical)](https://github.com/Kaustubhsenwrks)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh207&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubhsenwrks&layout=compact&theme=radical)
 
 ---
 
@@ -63,9 +63,9 @@ I love building innovative projects and solving real-world problems using techno
 [![Phone](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/7999842820) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Kaustubhsen2707@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-sen-091380328/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kaustubh207)   
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kaustubhsenwrks)   
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/kaustubh207/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Kaustubh027)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Kaustubhsenwrks)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://kaustubh-sen.vercel.app/)  
 
 🚀 Always open to collaboration and exciting ideas!
