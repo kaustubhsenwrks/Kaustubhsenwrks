@@ -45,13 +45,15 @@ I love building innovative projects and solving real-world problems using techno
 ---
 ## 📜 Certifications  
 
-- ✅ **ChatGPT Prompt Engineering for Developers** – DeepLearning.AI & OpenAI  
+- ✅ **Introduction to Generative AI** – AWS AI & ML Scholar 
+- ✅ **ChatGPT Prompt Engineering for Developers** – DeepLearning.AI & OpenAI
+- ✅ **C++ Essentials** – Cisco NetAcad
 - ✅ **SQL (Basics to Advanced)** – HackerRank
 ---
 
 ### 📊 GitHub Stats
 
-[![Kaustubh Sen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaustubh207&show_icons=true&theme=radical)](https://github.com/Kaustubhsenwrks)
+[![Kaustubh Sen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaustubhsenwrks&show_icons=true&theme=radical)](https://github.com/Kaustubhsenwrks)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubhsenwrks&layout=compact&theme=radical)
